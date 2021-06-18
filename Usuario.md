@@ -100,10 +100,16 @@ Funcion que muestra el reporte AST del analisis ascendente
 * ### AST XPATH: 
 Función que muestra el reporte AST del análisis descendente
 ## Sección de análisis XML
+  
+  
+  
    <div>
   <img src="Imagenes/Usuario02.JPG" width="600" alt="Menu">
       </div>
-  visualizacion
+
+  
+  
+  
 * ### Analizar XML Descendente: 
 Función que analiza la entrada escrita en la pestaña del analizador de manera  descendente
 * ### Analizar XML Ascendente: 
@@ -113,10 +119,16 @@ Función que muestra en la sección de reporte el árbol CST del análisis XML a
 * ### CST Descendente: 
 Función que muestra en la sección de reporte el árbol CST del análisis XML ascendentemente
 *###  Gramatical Ascendente: 
+  
+  
+  
    <div>
   <img src="Imagenes/Usuario03.JPG" width="600" alt="Inicio TytusX">
       </div>
-  visualizacion
+  
+  
+  
+
 Función que muestra el reporte de análisis gramatical realizado del manera ascendente
 * ### Gramatical Descendente: 
 Función que muestra el reporte de análisis gramatical realizado del manera ascendente
