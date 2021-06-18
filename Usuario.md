@@ -67,7 +67,7 @@
 La interfaz consta de un titulo con el numero de grupo correspondiente, posteriormente una sección de botones con las funcionalidades de cada analizador.
  El primer segmento son las funciones básicas del editor 
  ### Funciones generales del editor
-   <img src="Imagenes/Usuario03.jpg" width="600" alt="Menu">
+   <img src="Imagenes/Usuario03.JPG" width="600" alt="Menu">
 * ### Agregar una pestaña: 
 Función que crea un nuevo segmento donde se puede ingresar código manualmente o haciendo uso de la funcion abrir archivo cargara un archivo seleccionado en la seccion del editor
 * ### Abrir Archivo: 
@@ -94,7 +94,7 @@ Funcion que muestra el reporte AST del analisis ascendente
 * ### AST XPATH: 
 Función que muestra el reporte AST del análisis descendente
 ## Sección de análisis XML
-  <img src="Imagenes/Usuario02.jpg" width="600" alt="Menu">
+  <img src="Imagenes/Usuario02.JPG" width="600" alt="Menu">
 * ### Analizar XML Descendente: 
 Función que analiza la entrada escrita en la pestaña del analizador de manera  descendente
 * ### Analizar XML Ascendente: 
@@ -115,7 +115,7 @@ Función que muestra el reporte de análisis de la tabla de símbolos generada d
 <br>
 <br>
 <p align="center">
-  <img src="Imagenes/Usuario04.jpg" width="600" alt="Inicio TytusX">
+  <img src="Imagenes/Usuario04.JPG" width="600" alt="Inicio TytusX">
 </p>
 </div>
 <br>
@@ -123,7 +123,7 @@ Función que muestra el reporte de análisis de la tabla de símbolos generada d
 ## INTERFAZ PRINCIPAL
 <div style="text-align: justify">
 <p align="center">
-  <img src="Imagenes/Tecnico01.jpg" width="600" alt="Menu">
+  <img src="Imagenes/Tecnico01.JPG" width="600" alt="Menu">
 
 </p>
 </div>
@@ -137,7 +137,7 @@ Al realizar una consulta se mostrara  la parte inferior su salida ya codificada.
 <br>
 <br>
 <p align="center">
-  <img src="Imagenes/Usuario05.jpg" width="600" alt="Consola de Salida">
+  <img src="Imagenes/Usuario05.JPG" width="600" alt="Consola de Salida">
 </p>
 </div>
 <br>
