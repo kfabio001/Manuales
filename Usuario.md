@@ -61,13 +61,13 @@
 
 ## Elementos
 <div style="text-align: justify">
-  <img src="Imagenes/Tecnico01.jpg" width="600" alt="Menu">
+
 <h3>Interfaz</h3>
 
 La interfaz consta de un titulo con el numero de grupo correspondiente, posteriormente una sección de botones con las funcionalidades de cada analizador.
  El primer segmento son las funciones básicas del editor 
  ### Funciones generales del editor
-   <img src="Imagenes/Usuario03.JPG" width="600" alt="Menu">
+   <img src="Imagenes/Tecnico01.jpg" width="600" alt="Menu">
 * ### Agregar una pestaña: 
 Función que crea un nuevo segmento donde se puede ingresar código manualmente o haciendo uso de la funcion abrir archivo cargara un archivo seleccionado en la seccion del editor
 * ### Abrir Archivo: 
@@ -104,6 +104,7 @@ Función que muestra en la sección de reporte el árbol CST del análisis XML a
 * ### CST Descendente: 
 Función que muestra en la sección de reporte el árbol CST del análisis XML ascendentemente
 *###  Gramatical Ascendente: 
+  <img src="Imagenes/Usuario03.JPG" width="600" alt="Inicio TytusX">
 Función que muestra el reporte de análisis gramatical realizado del manera ascendente
 * ### Gramatical Descendente: 
 Función que muestra el reporte de análisis gramatical realizado del manera ascendente
@@ -123,7 +124,7 @@ Función que muestra el reporte de análisis de la tabla de símbolos generada d
 ## INTERFAZ PRINCIPAL
 <div style="text-align: justify">
 <p align="center">
-  <img src="Imagenes/Tecnico01.JPG" width="600" alt="Menu">
+  <img src="Imagenes/Tecnico01.jpg" width="600" alt="Menu">
 
 </p>
 </div>
